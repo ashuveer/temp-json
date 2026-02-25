@@ -1,0 +1,83 @@
+{
+  "ingredientName": "Maggie Masala",
+  "version": "1.0",
+  "batchSize": 100,
+  "unit": "grams",
+
+  "sequence": false,
+  "allowSkip": true,
+  "requireAllCompleted": true,
+
+  "items": [
+    {
+      "id": "1",
+      "name": "dried-fenugreek-leaves",
+      "requiredWeight": 5,
+      "tolerance": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fenugreek_leaves.jpg"
+    },
+    {
+      "id": "2",
+      "name": "black-pepper",
+      "requiredWeight": 8,
+      "tolerance": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Black_pepper.jpg"
+    },
+    {
+      "id": "3",
+      "name": "dry-mango-powder",
+      "requiredWeight": 10,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Amchur_powder.jpg"
+    },
+    {
+      "id": "4",
+      "name": "ginger-powder",
+      "requiredWeight": 7,
+      "tolerance": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ginger_powder.jpg"
+    },
+    {
+      "id": "5",
+      "name": "garlic-powder",
+      "requiredWeight": 12,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Garlic_powder.jpg"
+    },
+    {
+      "id": "6",
+      "name": "onion-powder",
+      "requiredWeight": 15,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Onion_powder.jpg"
+    },
+    {
+      "id": "7",
+      "name": "red-chili",
+      "requiredWeight": 14,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Red_chili_powder.jpg"
+    },
+    {
+      "id": "8",
+      "name": "turmeric",
+      "requiredWeight": 6,
+      "tolerance": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Turmeric_powder.jpg"
+    },
+    {
+      "id": "9",
+      "name": "cumin",
+      "requiredWeight": 11,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cumin_seeds.jpg"
+    },
+    {
+      "id": "10",
+      "name": "coriander-seeds",
+      "requiredWeight": 12,
+      "tolerance": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Coriander_seeds.jpg"
+    }
+  ]
+}
